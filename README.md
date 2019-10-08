@@ -9,5 +9,5 @@ To implement this project, it is necessary to clone the project into your local 
 
 ## Authors
 
-- **Jose Jimenez** - _Initial work_ - [PurpleBooth](https://github.com/josejimenezr)
-- **Smith Thapa** - _Initial work_ - [PurpleBooth](https://github.com/smithThapa)
+- **[Jose Jimenez](https://github.com/josejimenezr)** - _Initial work_
+- **[Smith Thapa](https://github.com/smithThapa)** - _Initial work_
