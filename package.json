@@ -13,12 +13,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/smithThapa/ABC-University-Education-System.git"
+    "url": "git+https://github.com/smithThapa/ABC-University-Educational-System.git"
   },
   "author": "Jose Jimenez | Smith Thapa",
   "license": "MIT",
+  "engines": {
+    "node": "10.x"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
   "bugs": {
-    "url": "https://github.com/smithThapa/ABC-University-Education-System/issues"
+    "url": "https://github.com/smithThapa/ABC-University-Educational-System/issues"
   },
   "homepage": "https://github.com/smithThapa/ABC-University-Education-System#readme",
   "dependencies": {
